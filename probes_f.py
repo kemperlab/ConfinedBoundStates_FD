@@ -11,12 +11,12 @@ class probes_f:
         self.t = t
 
     def probe(self, n):
-
-        if n == 'GAUSSIAN':
+    match n:
+        case "GAUSSIAN":
             return self.gaussian_hit()
-        elif n == 'DELTA':
+        case "DELTA":
             return self.delta_hit()
-        elif n == 'SELECTIVE':
+        case "SELECTIVE":
             return self.f_selective()
 
     def gaussian_hit(self):
