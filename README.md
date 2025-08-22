@@ -20,7 +20,7 @@ ___
 
   spin_models.py $\rightarrow$ this class includes many spin Hamiltonians relevant to similar non-equilibrium calculations where the mixed-field ising model is chosen for the purposes of our study. 
   
-  probes_f.py $\rightarrow$ this class includes different pulse shapes $\phi(t)$ that couples to the operator we measure to obtain the corresponding Green functions with appropriate time and frequency resolution.
+  probes_f.py $\rightarrow$ this class includes different pulse shapes $\phi(t)$ that couple to the operator we measure to obtain the corresponding Green functions with appropriate time and frequency resolution.
 * Data processing and figures-generating Jupyter Notebook
 
 
