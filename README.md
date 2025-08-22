@@ -1,6 +1,6 @@
 # BoundStateSpectrum_FunctionalDerivatives
 
-This code implemeents the functional derivatives process implemented in the paper linked below to compute the bound state spectrum of a 1-D mixed-field Ising model exhibiting confined dynamics.
+This code implements the functional derivatives process implemented in the paper linked below to compute the bound state spectrum of a 1-D mixed-field Ising model exhibiting confined dynamics.
 
 _Probing Bound State Relaxation Dynamics in Systems Out-of-Equilibrium on Quantum Computers_
 
