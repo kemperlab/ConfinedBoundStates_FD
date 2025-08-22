@@ -14,14 +14,13 @@ ___
 
 ## Contents
 
-* Data supporting the results of the paper
-* The code used to compute the functional derivative of operators $Z_0$
+* fd_conf_ising.py $\rightarrow$ Data Generation for both the response functions for a $H = H_0+\phi(t) Z_i$ and the computation of the various correlation functions using functional derivatives.
 * Two classes:
 
   spin_models.py $\rightarrow$ this class includes many spin Hamiltonians relevant to similar non-equilibrium calculations where the mixed-field ising model is chosen for the purposes of our study. 
   
   probes_f.py $\rightarrow$ this class includes different pulse shapes $\phi(t)$ that couple to the operator we measure to obtain the corresponding Green functions with appropriate time and frequency resolution.
-* Data processing and figures-generating Jupyter Notebook
+* fd_plots.ipynb $\rightarrow$ Data processing and figures-generating Jupyter Notebook 
 
 
 
