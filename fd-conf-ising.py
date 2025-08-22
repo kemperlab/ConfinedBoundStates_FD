@@ -167,7 +167,6 @@ w = 2.2
 h_l0 = 0
 h_l = -0.4
 nj = 100
-site = 5
 
 
 mapping = 'GAUSSIAN'
